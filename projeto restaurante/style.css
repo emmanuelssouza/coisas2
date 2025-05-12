@@ -16,7 +16,7 @@ header{
     font-family: 'Merriweather', sans-serif;
     text-decoration: underline;
     font-size: 30px;
-    width: 500px;
+    width: 400px;
     height: 110px;
     text-align: center;
     color: white;
@@ -26,7 +26,7 @@ header{
 nav{
     background-color: rgb(53, 3, 3);
     font-family: 'Merriweather', sans-serif;
-    width: 500px;
+    width: 400px;
     height: 50px;
 
 }
@@ -58,12 +58,12 @@ a{
     text-align: center;
     padding-top: 159px;
     padding-bottom: 159px;
-    width: 500px;
+    width: 400px;
 }
 #fundo{
     background-image: url(imagem/fugo.jpg);
     background-size: cover;
-    width: 500px;
+    width: 400px;
     height: 507px;
     display: flex;
     text-align: center;
@@ -72,7 +72,7 @@ a{
     box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.555);
 }
 #sobre{
-    width: 500px;
+    width: 400px;
     height: 240px;
     box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.507);
 }
@@ -95,7 +95,7 @@ a{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    width: 500px;
+    width: 400px;
     height: 507px;
     box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.507);
 }
@@ -176,7 +176,7 @@ a{
     background-color: rgb(66, 0, 0);
     font-family: 'Merriweather', sans-serif;
     font-size: 30px;
-    width: 500px;
+    width: 400px;
     height: 330px;
     padding: 10px;
     color: white;
