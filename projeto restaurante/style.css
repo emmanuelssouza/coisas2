@@ -9,9 +9,8 @@
     font-family: 'Merriweather';
     src: url('fontes/Merriweather/Merriweather-VariableFont_opsz\,wdth\,wght.ttf') format('truetype');
 }
-body{
-    overflow-x: hidden;
-}
+
+
 header{
     background-color: rgb(66, 0, 0);
     font-family: 'Merriweather', sans-serif;
@@ -36,7 +35,7 @@ ul{
     text-decoration: none;
     list-style: none;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     height: 50px;
 }
@@ -110,8 +109,9 @@ a{
     border-radius: 10px;
 }
 .img{
-    width: 200px;
-    height: 130px;
+    padding-top: 10px;
+    width: 170px;
+    height: 120px;
     border-radius: 10px;
 }
 #feijoada{
@@ -119,7 +119,7 @@ a{
     text-align: center;
     font-family: 'Merriweather', sans-serif;
     color: rgb(0, 0, 0);
-    padding: 5px;
+    padding: 0px;
     border-radius: 10px;
     box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.507);
     transition: all 0.3s ease;
@@ -130,7 +130,7 @@ a{
     text-align: center;
     font-family: 'Merriweather', sans-serif;
     color: rgb(0, 0, 0);
-    padding: 5px;
+    padding: 0px;
     border-radius: 10px;
     box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.507);
     transition: all 0.3s ease;
@@ -141,7 +141,7 @@ a{
     text-align: center;
     font-family: 'Merriweather', sans-serif;
     color: rgb(0, 0, 0);
-    padding: 5px;
+    padding: 0px;
     border-radius: 10px;
     box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.507);
     transition: all 0.3s ease;
@@ -152,7 +152,7 @@ a{
     text-align: center;
     font-family: 'Merriweather', sans-serif;
     color: rgb(0, 0, 0);
-    padding: 5px;
+    padding: 0px;
     border-radius: 10px;
     box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.507);
     transition: all 0.3s ease;
@@ -169,7 +169,6 @@ a{
 #galinhada:hover {
     padding: 10px;
 }
-
 #bife:hover {
     padding: 10px;
 }
