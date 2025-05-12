@@ -13,7 +13,7 @@ header{
     font-family: 'Merriweather', sans-serif;
     text-decoration: underline;
     font-size: 30px;
-    width: 100%;
+    width: 100vw;
     height: 110px;
     text-align: center;
     color: white;
@@ -22,7 +22,7 @@ header{
 nav{
     background-color: rgb(53, 3, 3);
     font-family: 'Merriweather', sans-serif;
-    width: 100%;
+    width: 100vw;
     height: 50px;
 }
 ul{
@@ -57,7 +57,7 @@ a{
 #fundo{
     background-image: url(imagem/fugo.jpg);
     background-size: cover;
-    width: 100%;
+    width: 100vw;
     height: 507px;
     display: flex;
     text-align: center;
@@ -66,7 +66,7 @@ a{
     box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.555);
 }
 #sobre{
-    width: 100%;
+    width: 100vw;
     height: 240px;
     box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.507);
 }
@@ -89,7 +89,7 @@ a{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    width: 100%;
+    width: 100vw;
     height: 507px;
     box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.507);
 }
@@ -170,7 +170,7 @@ a{
     background-color: rgb(66, 0, 0);
     font-family: 'Merriweather', sans-serif;
     font-size: 30px;
-    width: 465px;
+    width: 100vw;
     height: 320px;
     padding: 10px;
     color: white;
